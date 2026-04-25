@@ -20,7 +20,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-00007C?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-00007C?style=for-the-badge&logo=lua&logoColor=white)
 
 </div>
 
@@ -37,6 +37,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imprincee)
-[![Discord](https://img.shields.io/badge/Discord-5562EA?style=for-the-badge&logo=gmail&logoColor=white)](https://discord.com/users/594208710604226564)
+[![Discord](https://img.shields.io/badge/Discord-5562EA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/594208710604226564)
 
 </div>
