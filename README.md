@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imprincee)
+[![GitHub](https://img.shields.io/badge/GitHub-010409?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imprincee)
 [![Discord](https://img.shields.io/badge/Discord-5562EA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/594208710604226564)
 
 </div>
