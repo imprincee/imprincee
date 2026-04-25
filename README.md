@@ -7,9 +7,10 @@
 </div>
 
 ## ✌️ About Me
-🙂 I am a **junior** developer
-💎 **Frontend Developer** at Rhythia Website - one of the most popular rhythm games
-🐍 Built a **Discord bot** for the Rhythia server
+
+- 🙂 I am a **junior** developer
+- 💎 **Frontend Developer** at Rhythia Website - one of the most popular rhythm games
+- 🐍 Built a **Discord bot** for the Rhythia server
 
 ## 🛠️ Tech Stack
 
